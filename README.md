@@ -9,7 +9,7 @@ I am improving myself on frontend technologies, patterns and principles.I usuall
 ### Tech Stack
 
 ![Javascript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-5C2D91?style=for-the-badge&logo=Typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjslogoColor=61DAFB)
