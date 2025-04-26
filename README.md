@@ -2,7 +2,7 @@
 <h3 align="center"> Frontend Developer </h3>
 
 
-I am improving myself on frontend technologies, patterns and principles.I usually use React.js and Vue.js
+I am improving myself on frontend technologies, patterns and principles. I usually use React.js and Vue.js
 
 
 
