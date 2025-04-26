@@ -13,6 +13,7 @@ I am improving myself on frontend technologies, patterns and principles.I usuall
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjslogoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB)
 
 ![Html](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css&logoColor=61DAFB)
